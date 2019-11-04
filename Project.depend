@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1483776084 source:c:\hojoonryou\coding\geneticalgorithm\project\main.cpp
+	<stdio.h>
+	<algorithm>
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<math.h>
+
